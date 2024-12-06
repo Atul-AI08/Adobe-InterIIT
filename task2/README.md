@@ -26,15 +26,15 @@ Ensure that you have access to a suitable GPU environment to train and run these
 ```
 .
 ├── LLaMA-Factory-main/
-│   ├── train_qwen2vl.json      # for training qewen2 model
-│   ├── train_llama.json        # for training llama model
-│   ├── train_paligemma.json    # for training paligemma model
-│   ├── merge_qwen2vl.json      # for merging qewen2 model
-│   ├── merge_llama.json        # for merging llama model
-│   ├── merge_paligemma.json    # for merging paligemma model
+│   ├── train_qwen2vl.json      # For training qewen2 model
+│   ├── train_llama.json        # For training llama model
+│   ├── train_paligemma.json    # For training paligemma model
+│   ├── merge_qwen2vl.json      # For merging qewen2 model
+│   ├── merge_llama.json        # For merging llama model
+│   ├── merge_paligemma.json    # For merging paligemma model
 │   └──data/
 |       └── dataset_info.json   # Custom dataset for training
-├───finetune_mc_llava.py        # for fine-tuning mc-llava model
+├───finetune_mc_llava.py        # For fine-tuning mc-llava model
 ```
 
 ### Configuration Files
@@ -92,3 +92,8 @@ llamafactory-cli export merge_qwen2vl.json
 ```
 
 This will merge the LoRA adapter weights into the model and save the merged model.
+
+---
+
+All necessary dependencies are listed in the requirements.txt file. Requirements needed for LLama-Factory can be found in the 'LLaMA-Factory-main/requirements.txt' file.
+Please ensure they are installed before proceeding.

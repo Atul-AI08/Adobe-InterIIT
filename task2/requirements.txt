@@ -1,0 +1,14 @@
+pillow
+pandas
+google-generativeai
+tqdm
+numpy
+torch
+transformers
+peft
+accelerate
+matplotlib
+timm
+opencv-python
+flash-attn
+qwen-vl-utils
