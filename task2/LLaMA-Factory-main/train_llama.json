@@ -1,0 +1,13 @@
+{
+    "model_name_or_path": "meta-llama/Llama-3.2-11B-Vision-Instruct",
+    "do_train": true,
+    "dataset": "custom",
+    "template": "mllama",
+    "finetuning_type": "lora",
+    "lora_target": "all",
+    "output_dir": "llama_lora",
+    "per_device_train_batch_size": 8,
+    "gradient_accumulation_steps": 4,
+    "learning_rate": 5e-05,
+    "num_train_epochs": 1
+}
