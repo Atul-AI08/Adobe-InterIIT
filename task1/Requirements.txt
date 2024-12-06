@@ -1,0 +1,17 @@
+datasets
+einops
+evaluate
+imblearn
+lpips
+matplotlib
+numpy
+open-clip-torch
+pandas
+pathlib
+Pillow
+scikit-learn
+timm
+torch
+torchvision
+tqdm
+transformers
