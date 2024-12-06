@@ -6,7 +6,7 @@ This repository contains the implementation of various attacks used in the creat
 - **DCT Attack**
 - **One Pixel Attack**
 
-These attacks can be easily replicated using the provided notebook provided.
+These attacks can be easily replicated using the notebooks provided.
 
 ## Prerequisites
 
