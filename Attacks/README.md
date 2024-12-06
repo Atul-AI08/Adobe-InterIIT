@@ -14,17 +14,15 @@ To use this repository, make sure you have the following installed:
 
 - Python 3.7 or later
 - PyTorch (version >= 1.10)
-- Foolbox
-- Pillow
-- Numpy
-- Scipy
+  
+All other required libraries are listed in the requirements.txt file.
 
 
 A suitable GPU environment is recommended for faster execution of the image attacks.
 
 
 
-### Parameters
+## Parameters
 
 All parameters for the different attacks are documented in the notebook and can be adjusted as needed.
 
