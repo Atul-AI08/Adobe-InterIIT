@@ -19,7 +19,7 @@ All files can be run as-is, with only minor adjustments needed for file paths an
 To use this repository, make sure you have the following installed:
 
 - Python 3.7 or later
-- Hugging Face Transformers librar
+- All necessary dependencies are listed in the requirements.txt file. Please ensure they are installed before proceeding.
 
 
 Ensure that you have access to a suitable GPU environment to train and run these models efficiently.
