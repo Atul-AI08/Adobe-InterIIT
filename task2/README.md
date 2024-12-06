@@ -2,8 +2,8 @@
 
 This repository provides a collection of pre-configured models and training scripts to work with multiple **Vision-Language (VL) models** using **LoRA adapters** for efficient transfer learning. The following models are included:
 
-- **Qwen2-VL-7B-Instructt**
-- **Llama-3.2-11B-Vision-InstructB**
+- **Qwen2-VL-7B-Instruct**
+- **Llama-3.2-11B-Vision-Instruct**
 - **Paligemma-3B**
 - **MC-LLaVA-3b**
 
@@ -13,8 +13,8 @@ You can fine-tune these models using a custom dataset, and utilize inference scr
 
 To use this repository, make sure you have the following installed:
 
-- Python 3.7 or later
-- PyTorch (version >= 1.10)
+- Python 3.10 or later
+- PyTorch
 - Hugging Face Transformers library
 - LLaMA factory
 
