@@ -1,11 +1,16 @@
 ## Overview
 
-This repository provides a collection of pre-configured models and training scripts to work with multiple **Vision-Language (VL) models** using **LoRA adapters** for efficient transfer learning. The following models are included:
+This repository contain various models that we tried for our experimentation. Our experimentation includes the following model:
 
-- **Qwen2-VL-7B-Instructt**
-- **Llama-3.2-11B-Vision-InstructB**
-- **Paligemma-3B**
-- **MC-LLaVA-3b**
+- **DIRE**
+- **AEROBLADE**
+- **RIGID**
+- **RESNET50**
+- **CLIP**
+- **Robust CLIP**
+- **VIT**
+- **TinyVIT**
+
 
 You can fine-tune these models using a custom dataset, and utilize inference scripts to run them for various tasks such as image captioning, object recognition, and multi-modal interactions.
 
