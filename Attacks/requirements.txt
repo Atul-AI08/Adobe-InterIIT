@@ -1,0 +1,9 @@
+foolbox
+torch
+tqdm
+pillow
+matplotlib
+numpy
+scipy
+torchvision
+transformers
